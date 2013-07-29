@@ -25,6 +25,7 @@ int main()
     srand( static_cast<unsigned int>( time( NULL ) ) );
 	algorithm(sec, secNUM);
 
+	// Ñ­»·
 	for(int i = 0; i < secNUM; ++i)
 	{
 		if( i && (i % 5 == 0))
