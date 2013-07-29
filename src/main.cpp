@@ -21,7 +21,7 @@ int main()
     //commit
 	print(1024);
 
-	// asdfasdfasdfasdfasf
+	// 历史分支
     srand( static_cast<unsigned int>( time( NULL ) ) );
 	algorithm(sec, secNUM);
 
